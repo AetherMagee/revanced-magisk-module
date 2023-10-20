@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "patchName": "Custom branding YouTube name",
+    "options": [
+      {
+        "key": "YouTubeAppName",
+        "value": "YT RVX"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding Music name",
+    "options": [
+      {
+        "key": "MusicLongName",
+        "value": "Music RVX"
+      },
+      {
+        "key": "MusicShortName",
+        "value": "Music RVX"
+      }
+    ]
+  }
+]
+        
